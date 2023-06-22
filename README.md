@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maida12&label=Profile%20views&color=0e75b6&style=flat" alt="maida12" /> </p>
-<img src=" istockphoto-1306190794-612x612.jpg"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB6qOntoPr1ytgR4pwxm_m1OgkoKfM9VZ5IcTJ8k1uA9y46XgVXMvDUHYhZv14HhGsHgU&usqp=CAU"/>
 
 
 - 🔭 I’m currently working on **React project**
