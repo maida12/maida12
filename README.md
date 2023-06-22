@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maida12&label=Profile%20views&color=0e75b6&style=flat" alt="maida12" /> </p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB6qOntoPr1ytgR4pwxm_m1OgkoKfM9VZ5IcTJ8k1uA9y46XgVXMvDUHYhZv14HhGsHgU&usqp=CAU"/>
+<img src="https://media.istockphoto.com/id/1241710244/vector/working-at-home-vector-flat-style-illustration-online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=U34U9zhLBWDEbfPmgmlnFJiP-EuWu7MEUCxUls_BnKU="  alt="Girl in Coding"
+  style="display: inline-block; margin: 0 auto; max-width: 300px"/>
 
 
 - 🔭 I’m currently working on **React project**
