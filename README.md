@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maida12&label=Profile%20views&color=0e75b6&style=flat" alt="maida12" /> </p>
 <img src="https://media.istockphoto.com/id/1241710244/vector/working-at-home-vector-flat-style-illustration-online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=U34U9zhLBWDEbfPmgmlnFJiP-EuWu7MEUCxUls_BnKU="  alt="Girl in Coding"
-  style="display: inline-block; margin: 0 auto; max-width: 300px"/>
+  style="display: inline-block; margin: 0 auto; max-width: 300px ; width:400px"/>
 
 
 - 🔭 I’m currently working on **React project**
