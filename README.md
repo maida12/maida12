@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **CSS**
 
-- 👨‍💻 All of my projects are available at (https://github.com/maida12))
+- 👨‍💻 All of my projects are available at (https://github.com/maida12)
 
 - 📝 I regularly write articles on [www.example.com](www.example.com)
 
