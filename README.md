@@ -6,25 +6,25 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px ; width:400px; "/>
 
 
-- 🔭 I’m currently working on **React project**
+- 🔭 I’m currently working on **Node js**
 
-- 🌱 I’m currently learning **React Native,**
+- 🌱 I’m currently learning **Python, FAST API**
 
 - 👯 I’m looking to collaborate on **Open source**
 
-- 🤝 I’m looking for help with **CSS**
+- 🤝 I’m looking for help with **deep learning**
 
 - 👨‍💻 All of my projects are available at (https://github.com/maida12)
 
 - 📝 I regularly write articles on [www.example.com](www.example.com)
 
-- 💬 Ask me about **react,c++,java**
+- 💬 Ask me about **react,c++,java,Mern Stack**
 
 - 📫 How to reach me **maidaa.shahid@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1k-rzXpkRLpxNfckLQ6M1MiONlbndq_Oy/view?usp=sharing](https://drive.google.com/file/d/1k-rzXpkRLpxNfckLQ6M1MiONlbndq_Oy/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I watch movies on 2x speed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
