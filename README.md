@@ -30,8 +30,8 @@
 <p align="left">
 <a href="https://twitter.com/maidaa_shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maidaa_shahid" height="30" width="40" /></a>
 <a href="https://instagram.com/its_mydaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_mydaa/" height="30" width="40" /></a>
-
-  <a href="https://linkedin.com/maidaa_shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="maidaa_shahid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maida-shahid-b26710191![image](https://github.com/maida12/maida12/assets/81500487/44ef7f09-c19d-48a3-9136-ac57f055c779)
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maidashahid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
