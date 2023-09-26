@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **deep learning**
 
-- 👨‍💻 All of my projects are available at (https://github.com/maida12)
+- 👨‍💻 All of my projects are available at https://github.com/maida12
 
-- 📝 I regularly write articles on [www.example.com](www.example.com)
+- 📝 I regularly write articles on https://universitythings1.blogspot.com/
 
 - 💬 Ask me about **react,c++,java,Mern Stack**
 
