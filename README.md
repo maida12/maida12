@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **maidaa.shahid@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k-rzXpkRLpxNfckLQ6M1MiONlbndq_Oy/view?usp=sharing](https://drive.google.com/file/d/1k-rzXpkRLpxNfckLQ6M1MiONlbndq_Oy/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1k-rzXpkRLpxNfckLQ6M1MiONlbndq_Oy/view?usp=sharing](https://drive.google.com/file/d/1oiPAXEnj8vWzqumt4c-jTEiowr6UzPhs/view?usp=sharing)
 
 - ⚡ Fun fact **I watch movies on 2x**
 
