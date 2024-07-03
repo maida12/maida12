@@ -49,6 +49,6 @@
 <summary>Click to see a random joke</summary>
   <div align="center">
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+  ![Jokes Card](https://readme-jokes.vercel.app/)
 
   </div>
