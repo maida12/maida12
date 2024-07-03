@@ -46,3 +46,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maida12&show_icons=true&locale=en&layout=compact" alt="maida12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maida12&show_icons=true&locale=en" alt="maida12" /></p>
+<summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
