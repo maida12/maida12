@@ -47,5 +47,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maida12&show_icons=true&locale=en" alt="maida12" /></p>
   <div align="center">
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  ![Jokes Card](https://readme-jokes.vercel.app/)
   </div>
