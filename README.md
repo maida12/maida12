@@ -12,19 +12,19 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px ; width:400px; "/>
 
 
-- 🔭 I’m currently working on **Node js**
+- 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **Python, FAST API**
+- 🌱 I’m currently learning **Angular AND dotnet**
 
 - 👯 I’m looking to collaborate on **Open source**
 
-- 🤝 I’m looking for help with **deep learning**
+- 🤝 I’m looking for help with **machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maida12](https://github.com/maida12)
 
 - 📝 I regularly write articles on [https://universitythings1.blogspot.com/](https://universitythings1.blogspot.com/)
 
-- 💬 Ask me about **react,c++,java,Mern Stack**
+- 💬 Ask me about **React,C++,JAVA,MERN Stack**
 
 - 📫 How to reach me **maidaa.shahid@gmail.com**
 
@@ -46,9 +46,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maida12&show_icons=true&locale=en&layout=compact" alt="maida12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maida12&show_icons=true&locale=en" alt="maida12" /></p>
-<summary>Click to see a random joke</summary>
   <div align="center">
-
   ![Jokes Card](https://readme-jokes.vercel.app/api)
-
   </div>
