@@ -46,7 +46,7 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://www.angular.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" height="40"></a>
-  <a href="https://www.dotnet.com" target="_blank" rel="noreferrer">
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40" height="40"></a>
 </p>
 
